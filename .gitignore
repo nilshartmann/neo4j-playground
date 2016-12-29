@@ -1,0 +1,7 @@
+build/
+.idea/
+.gradle/
+
+neo4j-community-3.1.0/certificates/
+neo4j-community-3.1.0/data/
+neo4j-community-3.1.0/logs/
